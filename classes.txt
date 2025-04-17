@@ -1,0 +1,162 @@
+0	Aphidoidea
+1	Tessaratoma papillosa
+2	Thripidae
+3	Drosicha corpulenta 
+4	Atractomorpha sinensis
+5	Acrididae
+6	Papilionidae larva
+7	Euclea delphinii larva
+8	Gryllotalpa
+9	Acrida cinerea
+10	Spodoptera frugiperda larva
+11	Spodoptera eridania larva
+12	Scarabaeidae larva
+13	Plodia interpunctella larva
+14	Gryllidae
+15	Tortricidae larva
+16	Elateroidea larva
+17	Monolepta signata
+18	Orgyia antiqua larva
+19	Lissachatina fulica
+20	Malacosoma disstria larva
+21	Tenthredinidae larva
+22	Tenthredinidae
+23	Cicadellidae
+24	Tetranychidae
+25	Buprestidae
+26	Lcerya purchasi
+27	Saissetia coffeae
+28	Bemisia tabaci
+29	Agrotis larva
+30	Pryeria sinica
+31	Pryeria sinica larva
+32	Eucorysses grandis
+33	Eumeta variegata
+34	Cerambycidae
+35	Cerambycidae larva
+36	Cerura menciana larva
+37	Cerura menciana
+38	Agrotis ypsilon
+39	Plutella xylostella
+40	Scolytidae
+41	Geometridae
+42	Geometridae larva
+43	Ricaniidae
+44	Thosea sinensis
+45	Eurygaster testudinaria
+46	Lycorma delicatula
+47	Spodoptera litura larva
+48	Spodoptera litura
+49	Ceroplastes rusci
+50	Takahashia japonica
+51	Psyllidae
+52	Clostera anachoreta larva
+53	Clostera anachoreta
+54	Papilio xuthus
+55	Dichocrocis punctiferalis
+56	Zeuzera pyrina
+57	Aphis gossypii Glover
+58	Helicoverpa armigera larva
+59	Helicoverpa armigera
+60	Chrysomelidae
+61	Malacosoma disstria
+62	Brontispa longissima
+63	Lymantria monacha
+64	Eurydema gebleri
+65	Pomacea canaliculata
+66	Gatesclarkeana idia
+67	Brassicogethes aeneus
+68	Lycaenidae larva
+69	Lycaenidae
+70	Ephestia kuehniella
+71	Dolycoris baccarum
+72	Papilio polytes
+73	Pidorus atratus larva
+74	Pidorus atratus
+75	Helicoverpa zea larva
+76	Helicoverpa zea
+77	Spodoptera exigua
+78	Spoladea recurvalis
+79	Manduca quinquemaculata larva
+80	Manduca quinquemaculata
+81	Eriophyidae
+82	Charaxes bernardus larva
+83	Charaxes bernardus
+84	Termitidae
+85	Aonidiella citrina
+86	Unaspis yanonensis 
+87	Cyclosia papilionaris larva
+88	Cletus punctiger
+89	Cnaphalocrocis medinalis
+90	Nezara viridula
+91	Sesamia inferens
+92	Brahmaeidae larva
+93	Brahmaeidae
+94	Phenacoccus solenopsis
+95	Pieridae larva
+96	Pieris rapae
+97	Pyralis farinalis
+98	Carpocoris purpureipennis
+99	Chrysocoris stollii
+100	Rhynchophorus ferrugineus
+101	Solenopsis invicta
+102	Aloa lactinea larva
+103	Aloa lactinea
+104	Tropidothorax cruciger
+105	Ceroplastes rubens
+106	Pectinophora
+107	Apolygus lucorum
+108	Corythucha ciliata
+109	Hyphantria cunea larva
+110	Hyphantria cunea
+111	Lymantria dispar larva
+112	Lymantria dispar
+113	Tritomegas bicolor
+114	Cossus cossus larva
+115	Cossus cossus
+116	Cydia pomonella larva
+117	Cydia pomonella
+118	Epilachna vigintioctopunctata
+119	Eterusia aedea
+120	Eterusia aedea larva
+121	Halyomorpha halys
+122	Loxostege sticticalis
+123	Aelia fieberi
+124	Spodoptera frugiperda
+125	Spilarctia subcarnea
+126	Euthrix potatoria larva
+127	Euthrix potatoria
+128	Choristoneura fumiferana
+129	Psychidae larva
+130	Spilarctia subcarnea larva
+131	Eysarcoris guttigerus
+132	Hyles livornica larva
+133	Limax maximus
+134	Spodoptera eridania
+135	Hyles livornica
+136	Cyclosia papilionaris
+137	Euclea delphinii
+138	Pyralidae larva
+139	Plodia interpunctella
+140	Coccus hesperidum
+141	Cantao ocellatus
+142	Ceroplastes ceriferus
+143	Etiella zinckenella
+144	Curculionidae
+145	Trigonotylus caelestialium
+146	Histia flabellicornis larva
+147	Histia flabellicornis
+148	Poecilocoris lewisi
+149	Tortricidae
+150	Scarabaeidae
+151	Salurnis marginella Guerr
+152	Orgyia antiqua
+153	Delphacidae
+154	Erthesina fullo
+155	Agrotis segetum
+156	Aulacophora indica
+157	Phyllotreta striolata
+158	Stauropus alternus larva
+159	Stauropus alternus
+160	Pyrops candelaria
+161	Ceroplastes japonicas Guaind
