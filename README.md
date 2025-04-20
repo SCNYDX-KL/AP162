@@ -9,7 +9,7 @@ We provide the download method for Baidu Netdisk:
 
 ## Model Download
 We provide the download method for Baidu Netdisk: 
-[download link](https://pan.baidu.com/s/1IdgNWPZ_42_sPXWck_wiaA) (password:nqge)
+[download link](https://pan.baidu.com/s/1XPJS-N9oHgkEgHOrW_3vdw) (password: aeth) 
 
 
 ## Additional Information
