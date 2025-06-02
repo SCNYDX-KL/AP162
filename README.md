@@ -5,11 +5,11 @@ We have provided a new agricultural pest image dataset in this warehouse, contai
 
 ## Data Download
 We provide the download method for Baidu Netdisk: 
-[download link](https://pan.baidu.com/s/16_b49fL4cAYlk1t8SLScUQ) (password: xzp9 )
+[download link](https://pan.baidu.com/s/16_b49fL4cAYlk1t8SLScUQ) 
 
 ## Model Download
 We provide the download method for Baidu Netdisk: 
-[download link](https://pan.baidu.com/s/1XPJS-N9oHgkEgHOrW_3vdw) (password: aeth) 
+[download link](https://pan.baidu.com/s/1XPJS-N9oHgkEgHOrW_3vdw)
 
 
 ## Additional Information
