@@ -55,7 +55,7 @@
 54	Papilio xuthus
 55	Dichocrocis punctiferalis
 56	Zeuzera pyrina
-57	Aphis gossypii Glover
+57	Shivaphis celti
 58	Helicoverpa armigera larva
 59	Helicoverpa armigera
 60	Chrysomelidae
